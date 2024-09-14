@@ -8,6 +8,8 @@ class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         parsedRoot1 = self.parseTree(root1, [])
         parsedRoot2 = self.parseTree(root2, [])
+        if len(parsedRoot1) != len(parsedRoot2):
+            return False
         # print(parsedRoot1, parsedRoot2)
         if parsedRoot1 == parsedRoot2:
             return True
