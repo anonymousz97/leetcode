@@ -1,5 +1,7 @@
-​1. Count how many bits in a | b need to be flipped to a 1.
+1. Count how many bits in a | b need to be flipped to a 1.
+
 2. Count how many bits in a need to be flipped to a 0.
+
 3. Count how many bits in b need to be flipped to a 0.
 
 Formula for each section
