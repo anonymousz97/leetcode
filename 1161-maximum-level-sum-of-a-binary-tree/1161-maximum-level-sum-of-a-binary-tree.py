@@ -7,17 +7,28 @@
 class Solution:
     def maxLevelSum(self, root: Optional[TreeNode]) -> int:
         self.dct_value = {}
-        self.process(root, 1)
-        return max(self.dct_value, key=lambda k: self.dct_value[k])
-        
-    def process(self, root: Optional[TreeNode], cur_length):
-        if root is None:
-            return 
-        if cur_length in self.dct_value.keys():
-            self.dct_value[cur_length] += root.val
-        else:
-            self.dct_value[cur_length] = root.val
-        self.process(root.right, cur_length+1)
-        self.process(root.left, cur_length+1)
+        queue = [root]
+        cur_length = 0
+        max_length = 0
+        max_value = -float(inf)
+        while queue:
+            cur_length += 1
+            lst_node = []
+            sum_idx = 0
+            for i in queue:
+                if i is not None:
+                    sum_idx += i.val
+                    if i.left is not None:
+                        lst_node.append(i.left)
+                    if i.right is not None:
+                        lst_node.append(i.right)
+            if sum_idx > max_value:
+                max_value = sum_idx
+                max_length = cur_length
+            queue = lst_node
+        return max_length
+                
+                
+            
     
         
