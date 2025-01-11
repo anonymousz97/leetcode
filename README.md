@@ -58,4 +58,16 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/anonymousz97/leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/anonymousz97/leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/anonymousz97/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
