@@ -1,14 +1,5 @@
+from collections import Counter
+
 class Solution:
     def minimumLength(self, s: str) -> int:
-        if len(s) < 3:
-            return len(s)
-        res = {}
-        for i in s:
-            if ord(i) - ord('a') not in res.keys():
-                res[ord(i) - ord('a')] = 1
-            else:
-                res[ord(i) - ord('a')] += 1
-        cnt = 0
-        for i in res.keys():
-            cnt += (res[i] - 1)//2
-        return len(s) - 2 * cnt
+        return sum(1 if x % 2 else 2 for x in Counter(s).values()) # if counter is odd so 1 remain after remove and if even so 2 left (since cannot remove the last pair)
