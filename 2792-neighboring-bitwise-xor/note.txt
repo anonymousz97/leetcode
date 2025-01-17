@@ -1,0 +1,12 @@
+derived[0] = orig[0] ^ orig[1]
+derived[1] = orig[1] ^ orig[2]
+...
+derived[n-1] = orig[n-1] ^ orig[0]
+
+We have a = b ^ c => a ^ c = (b ^ c) ^ c = b ^ (c ^ c) = b ^ 0 = b
+
+=> orig[0] = derived[0] ^ orig[1]
+
+While orig[1] = derived[1] ^ orig[2] so on...
+
+=> We will have derived[0] ^ derived[1] ^ derived[2] ^ ... ^ derived[n-1] = 0 to match the conditions.
