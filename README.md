@@ -15,6 +15,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2292-counting-words-with-a-given-prefix](https://github.com/anonymousz97/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anonymousz97/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anonymousz97/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anonymousz97/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anonymousz97/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
@@ -89,6 +90,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2509-minimize-xor](https://github.com/anonymousz97/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anonymousz97/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anonymousz97/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anonymousz97/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
