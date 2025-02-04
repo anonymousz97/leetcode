@@ -16,6 +16,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [1524-string-matching-in-an-array](https://github.com/anonymousz97/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/anonymousz97/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anonymousz97/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/anonymousz97/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/anonymousz97/leetcode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anonymousz97/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anonymousz97/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
