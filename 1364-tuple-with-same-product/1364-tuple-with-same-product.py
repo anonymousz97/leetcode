@@ -17,7 +17,7 @@ class Solution:
         print(lst)
         for i, j in lst.items():
             if j > 1:
-                cnt += 8 * n(j)/(n(2)*n(j-2))
+                cnt += 4 * j * (j-1)
         return int(cnt)
 
 
