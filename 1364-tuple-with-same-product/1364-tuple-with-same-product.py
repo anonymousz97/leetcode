@@ -1,24 +1,20 @@
-def n(x):
-    a = 1
-    for i in range(1,x+1, 1):
-        a *= i
-    return a
+from typing import List
+from collections import defaultdict
 
 class Solution:
     def tupleSameProduct(self, nums: List[int]) -> int:
-        lst = {}
+        lst = defaultdict(int)
         cnt = 0
-        for i in range(len(nums)-1):
-            for j in range(i+1, len(nums), 1):
-                if nums[i] * nums[j] not in lst.keys():
-                    lst[nums[i] * nums[j]] = 1
-                else:
-                    lst[nums[i] * nums[j]] += 1
-        print(lst)
-        for i, j in lst.items():
-            if j > 1:
-                cnt += 4 * j * (j-1)
-        return int(cnt)
 
+        # Count product frequencies
+        for i in range(len(nums) - 1):
+            for j in range(i + 1, len(nums)):
+                product = nums[i] * nums[j]
+                lst[product] += 1
 
-        
+        # Calculate result using direct combination formula
+        for freq in lst.values():
+            if freq > 1:
+                cnt += 8 * (freq * (freq - 1)) // 2  # Efficient combination
+
+        return cnt
