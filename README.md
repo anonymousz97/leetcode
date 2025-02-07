@@ -26,6 +26,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2792-neighboring-bitwise-xor](https://github.com/anonymousz97/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anonymousz97/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anonymousz97/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anonymousz97/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anonymousz97/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anonymousz97/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anonymousz97/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -161,4 +163,8 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anonymousz97/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
