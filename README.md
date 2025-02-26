@@ -15,6 +15,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anonymousz97/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anonymousz97/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/anonymousz97/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anonymousz97/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anonymousz97/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -184,4 +185,8 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/anonymousz97/leetcode/tree/master/2434-design-a-number-container-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anonymousz97/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
