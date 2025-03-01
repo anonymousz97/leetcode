@@ -24,6 +24,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2292-counting-words-with-a-given-prefix](https://github.com/anonymousz97/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anonymousz97/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anonymousz97/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/anonymousz97/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anonymousz97/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anonymousz97/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anonymousz97/leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -181,6 +182,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anonymousz97/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/anonymousz97/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
@@ -195,4 +197,8 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anonymousz97/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/anonymousz97/leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
