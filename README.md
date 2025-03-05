@@ -211,4 +211,5 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anonymousz97/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/anonymousz97/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
