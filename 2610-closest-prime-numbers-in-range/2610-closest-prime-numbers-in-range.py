@@ -1,7 +1,4 @@
 class Solution:
-    def __init__(self):
-        self.lst_prime = self.sieve_of_eratosthenes(10**6)
-        self.lst_dist = [self.lst_prime[x+1]-self.lst_prime[x] for x in range(len(self.lst_prime[:-1]))]
         
     def sieve_of_eratosthenes(self, n):
         primes = [True] * (n + 1)
@@ -15,6 +12,8 @@ class Solution:
         return [i for i in range(n + 1) if primes[i]]
                 
     def closestPrimes(self, left: int, right: int) -> List[int]:
+        self.lst_prime = self.sieve_of_eratosthenes(right)
+        self.lst_dist = [self.lst_prime[x+1]-self.lst_prime[x] for x in range(len(self.lst_prime[:-1]))]
         min_v = 99999999
         idx_min = -1
         for idx, i in enumerate(self.lst_prime[:-1]):
