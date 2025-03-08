@@ -45,6 +45,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anonymousz97/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anonymousz97/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anonymousz97/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anonymousz97/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anonymousz97/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anonymousz97/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
@@ -221,4 +222,8 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/anonymousz97/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anonymousz97/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
