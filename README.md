@@ -10,6 +10,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -155,6 +156,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/anonymousz97/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -180,6 +182,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -197,6 +200,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | ------- |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anonymousz97/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0820-find-eventual-safe-states](https://github.com/anonymousz97/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -204,6 +208,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anonymousz97/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
