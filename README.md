@@ -9,6 +9,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
@@ -42,6 +43,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anonymousz97/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anonymousz97/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -148,6 +150,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/anonymousz97/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -157,6 +160,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0820-find-eventual-safe-states](https://github.com/anonymousz97/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anonymousz97/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -180,16 +184,19 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0820-find-eventual-safe-states](https://github.com/anonymousz97/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anonymousz97/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anonymousz97/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
