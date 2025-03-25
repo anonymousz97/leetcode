@@ -13,6 +13,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anonymousz97/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -62,6 +63,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anonymousz97/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/anonymousz97/leetcode/tree/master/2145-grid-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anonymousz97/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -87,6 +89,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/anonymousz97/leetcode/tree/master/1364-tuple-with-same-product) |
