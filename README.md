@@ -11,6 +11,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | ------- |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/anonymousz97/leetcode/tree/master/0260-single-number-iii) |
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
@@ -146,6 +147,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/anonymousz97/leetcode/tree/master/0260-single-number-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anonymousz97/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/anonymousz97/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anonymousz97/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
