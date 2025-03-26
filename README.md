@@ -43,6 +43,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anonymousz97/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anonymousz97/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anonymousz97/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
@@ -226,6 +227,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anonymousz97/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anonymousz97/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anonymousz97/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
 | ------- |
