@@ -17,6 +17,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
+| [1036-rotting-oranges](https://github.com/anonymousz97/leetcode/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anonymousz97/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/anonymousz97/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -168,6 +169,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/anonymousz97/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1036-rotting-oranges](https://github.com/anonymousz97/leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anonymousz97/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -193,6 +195,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1036-rotting-oranges](https://github.com/anonymousz97/leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/anonymousz97/leetcode/tree/master/1876-map-of-highest-peak) |
