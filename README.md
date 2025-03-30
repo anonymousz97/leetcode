@@ -104,6 +104,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anonymousz97/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anonymousz97/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/anonymousz97/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anonymousz97/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anonymousz97/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anonymousz97/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -190,6 +191,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2413-smallest-number-in-infinite-set](https://github.com/anonymousz97/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anonymousz97/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anonymousz97/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
@@ -250,10 +252,12 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 ## Design
 |  |
 | ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/anonymousz97/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anonymousz97/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/anonymousz97/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anonymousz97/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Dynamic Programming
 |  |
