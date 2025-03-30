@@ -37,6 +37,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anonymousz97/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/anonymousz97/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anonymousz97/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2636-maximum-subsequence-score](https://github.com/anonymousz97/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anonymousz97/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/anonymousz97/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anonymousz97/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -120,6 +121,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anonymousz97/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/anonymousz97/leetcode/tree/master/2509-minimize-xor) |
+| [2636-maximum-subsequence-score](https://github.com/anonymousz97/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | [2413-smallest-number-in-infinite-set](https://github.com/anonymousz97/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anonymousz97/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anonymousz97/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2636-maximum-subsequence-score](https://github.com/anonymousz97/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +243,7 @@ First solution accepted in 2024, i will do more in this year. Target 500+ proble
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anonymousz97/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anonymousz97/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2636-maximum-subsequence-score](https://github.com/anonymousz97/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anonymousz97/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anonymousz97/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
