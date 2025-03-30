@@ -9,11 +9,11 @@ class Solution:
         sum_first_part = 0
         heapq.heapify(lst)
         for j in tmp:
-            heapq.heappush(lst, j)
+            heapq.heappush(lst, j[0])
             sum_first_part += j[0]
             if len(lst) > k:
                 t = heapq.heappop(lst)
-                sum_first_part -= t[0]
+                sum_first_part -= t
             if len(lst) == k:
                 max_v = max(max_v, sum_first_part * j[1])
         return max_v
