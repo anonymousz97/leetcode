@@ -53,6 +53,7 @@ Current situation
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anonymousz97/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anonymousz97/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anonymousz97/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anonymousz97/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -121,6 +122,7 @@ Current situation
 | [3227-find-missing-and-repeated-values](https://github.com/anonymousz97/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anonymousz97/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anonymousz97/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anonymousz97/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
 | ------- |
