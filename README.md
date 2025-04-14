@@ -25,6 +25,7 @@ Current situation
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anonymousz97/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anonymousz97/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1656-count-good-triplets](https://github.com/anonymousz97/leetcode/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anonymousz97/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/anonymousz97/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anonymousz97/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -335,6 +336,7 @@ Current situation
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/anonymousz97/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anonymousz97/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/anonymousz97/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
