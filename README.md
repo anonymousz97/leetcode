@@ -17,6 +17,7 @@ Current situation
 | [0407-trapping-rain-water-ii](https://github.com/anonymousz97/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anonymousz97/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
+| [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/anonymousz97/leetcode/tree/master/1036-rotting-oranges) |
@@ -112,6 +113,7 @@ Current situation
 | ------- |
 | [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
 | [0768-partition-labels](https://github.com/anonymousz97/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anonymousz97/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -136,6 +138,7 @@ Current situation
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/anonymousz97/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anonymousz97/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/anonymousz97/leetcode/tree/master/2509-minimize-xor) |
@@ -310,6 +313,7 @@ Current situation
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/anonymousz97/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anonymousz97/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anonymousz97/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/anonymousz97/leetcode/tree/master/2050-count-good-numbers) |
