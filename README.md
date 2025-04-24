@@ -121,6 +121,7 @@ Current situation
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anonymousz97/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/anonymousz97/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anonymousz97/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/anonymousz97/leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anonymousz97/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/anonymousz97/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -316,6 +317,7 @@ Current situation
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/anonymousz97/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/anonymousz97/leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anonymousz97/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anonymousz97/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/anonymousz97/leetcode/tree/master/2050-count-good-numbers) |
