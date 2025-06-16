@@ -35,6 +35,7 @@ Current situation
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anonymousz97/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anonymousz97/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/anonymousz97/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/anonymousz97/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/anonymousz97/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anonymousz97/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anonymousz97/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
