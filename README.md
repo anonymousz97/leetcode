@@ -33,6 +33,7 @@ Current situation
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anonymousz97/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anonymousz97/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anonymousz97/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/anonymousz97/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anonymousz97/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/anonymousz97/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anonymousz97/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
