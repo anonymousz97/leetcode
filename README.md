@@ -79,6 +79,7 @@ Current situation
 | [0399-evaluate-division](https://github.com/anonymousz97/leetcode/tree/master/0399-evaluate-division) |
 | [0768-partition-labels](https://github.com/anonymousz97/leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
+| [1189-maximum-number-of-balloons](https://github.com/anonymousz97/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anonymousz97/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/anonymousz97/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -125,6 +126,7 @@ Current situation
 | [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/anonymousz97/leetcode/tree/master/0952-word-subsets) |
+| [1189-maximum-number-of-balloons](https://github.com/anonymousz97/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anonymousz97/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/anonymousz97/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anonymousz97/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +160,7 @@ Current situation
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/anonymousz97/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/anonymousz97/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/anonymousz97/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/anonymousz97/leetcode/tree/master/1502-construct-k-palindrome-strings) |
