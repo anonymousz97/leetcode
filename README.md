@@ -9,6 +9,7 @@ Current situation
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anonymousz97/leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/anonymousz97/leetcode/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/anonymousz97/leetcode/tree/master/0260-single-number-iii) |
@@ -121,6 +122,7 @@ Current situation
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anonymousz97/leetcode/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/anonymousz97/leetcode/tree/master/0525-contiguous-array) |
 | [0768-partition-labels](https://github.com/anonymousz97/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anonymousz97/leetcode/tree/master/0797-rabbits-in-forest) |
