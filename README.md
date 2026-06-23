@@ -75,6 +75,7 @@ Current situation
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anonymousz97/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anonymousz97/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anonymousz97/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anonymousz97/leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
@@ -316,6 +317,7 @@ Current situation
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anonymousz97/leetcode/tree/master/0022-generate-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/anonymousz97/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anonymousz97/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/anonymousz97/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -366,6 +368,7 @@ Current situation
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anonymousz97/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anonymousz97/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/anonymousz97/leetcode/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anonymousz97/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
